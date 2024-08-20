@@ -1,4 +1,5 @@
 ## Hi, I'm Lautaro 👋
 
 ## 🎓 My career
-![CARRERA (3)](https://github.com/user-attachments/assets/673128f1-e234-475c-b75f-c01efb18ecbe)
+
+![CARRERA](https://github.com/user-attachments/assets/57b320a5-21d4-42bb-9bdc-f15a159a38ca)
