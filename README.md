@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi, I'm Lautaro 👋
 
-<!--
-**LautaroRomero21/LautaroRomero21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 My career
 
-Here are some ideas to get you started:
+![DER TP DDS](https://github.com/user-attachments/assets/91e32eb9-5e26-496f-97b1-8af0a3e9639e)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
