@@ -2,6 +2,9 @@
 
 I’m a Systems Engineering student at UTN Argentina, currently with 50% of the coursework completed and a GPA of 8.06. My academic background includes a strong foundation in key areas such as Data Management, Probability and Statistics, Algorithms and Data Structures, Systems Design, Computer Architecture, among others
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+
 📖 Current Courses:
 - Systems Design
 - Physics I
