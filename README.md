@@ -15,13 +15,13 @@ Currently, I'm working on several projects, including:
 
 Development of a management system for an NGO for the distribution of community refrigerators.
 Implementation of notification and distribution systems using Java and Spring Boot.
-Creation of payment systems and data analysis for various applications, including a payment system for an artistic school.
 
 🧩 Skills and Tools:
-Programming Languages: Java, SQL, Python3
-Tools and Technologies: Spring Boot, Maven, JSON, API
-Design Diagrams: Use Case Diagrams, Class Diagrams (UML), Data Flow Diagrams
-Data Analytics: Business Intelligence, Data Warehouse Design.
+- Programming Languages: Java, SQL, Python3 (Diploma)
+- Web Technologies: HTML, CSS, JavaScript
+- Tools and Technologies: Spring Boot, Maven, JSON, API, ORM (Hibernate)
+- Design Diagrams: Use Case Diagram, Class Diagram, Entity-relationship diagram, Data Flow Diagrams, Components Diagram, Sequence diagram, State diagram
+- Data Analytics: Business Intelligence, Data Warehouse Design.
 
 📈 Interests:
 Software Development: Building robust and efficient systems
@@ -29,7 +29,10 @@ Data Analytics: Applying BI techniques for decision-making
 System Design: Creating and managing complex systems in real-world environments
 
 🔗 Connect with Me
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/lautaro-romero-7a31612b8/)
+[Instagram](https://www.linkedin.com/in/your-profile)
+
+
 
 ## 🎓 My career
 
