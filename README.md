@@ -2,17 +2,10 @@
 
 I’m a Systems Engineering student at UTN Argentina, currently with 50% of the coursework completed and a GPA of 8.06. My academic background includes a strong foundation in key areas such as Data Management, Probability and Statistics, Algorithms and Data Structures, Systems Design, Computer Architecture, among others
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LautaroRomero21&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroRomero21&layout=compact&theme=dark)
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LautaroRomero21&theme=dark)
-
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=LautaroRomero21&repo=your-repo-name&theme=dark)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LautaroRomero21&theme=react-dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LautaroRomero21&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark)
 
 
 
