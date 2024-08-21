@@ -22,9 +22,9 @@ Implementation of notification and distribution systems using Java and Spring Bo
 - Data Analytics: Business Intelligence, Data Warehouse Design.
 
 📈 Interests:
-Software Development: Building robust and efficient systems
-Data Analytics: Applying BI techniques for decision-making
-System Design: Creating and managing complex systems in real-world environments
+- Software Development: Building robust and efficient systems
+- Data Analytics: Applying BI techniques for decision-making
+- System Design: Creating and managing complex systems in real-world environments
 
 🔗 Connect with Me:
 <a href="https://www.linkedin.com/in/lautaro-romero-7a31612b8/" target="_blank">
