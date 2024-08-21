@@ -72,7 +72,7 @@ Implementation of notification and distribution systems using Java and Spring Bo
 
 |   Tool   | Knowledge Level |
 |----------|-----------------|
-| Mave     | ⭐⭐⭐⭐⭐   |
+| Maven    | ⭐⭐⭐⭐⭐   |
 | Makefile | ⭐⭐⭐⭐⭐   |
 
 ### 🖥️ Testing Libraries
