@@ -68,13 +68,6 @@ Implementation of notification and distribution systems using Java and Spring Bo
 | Java     | Spring Boot      | ⭐⭐⭐⭐       |
 | Node.js  |                  | ⭐⭐⭐         |
 
-### 🖥️ Back-End Frameworks
-
-| Language | Framework/Router	| Knowledge Level |
-|----------|------------------|------------------|
-| Java     | Spring Boot      | ⭐⭐⭐⭐       |
-| Node.js  |                  | ⭐⭐⭐         |
-
 ### 🖥️ Build Tools
 
 |   Tool   | Knowledge Level |
