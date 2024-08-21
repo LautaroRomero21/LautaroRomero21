@@ -2,11 +2,6 @@
 
 I’m a Systems Engineering student at UTN Argentina, currently with 50% of the coursework completed and a GPA of 8.06. My academic background includes a strong foundation in key areas such as Data Management, Probability and Statistics, Algorithms and Data Structures, Systems Design, Computer Architecture, among others
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroRomero21&layout=compact&theme=dark) ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LautaroRomero21&theme=dark)
-
-
-
 📖 Current Courses:
 - Systems Design
 - Physics I
@@ -39,7 +34,13 @@ Implementation of notification and distribution systems using Java and Spring Bo
   <img src="https://img.icons8.com/ios-filled/24/ffffff/instagram-new.png" alt="Instagram" style="vertical-align:middle; width:24px; height:24px;" />
 </a>
 
-
 ## 🎓 My career
 
 ![CARRERA](https://github.com/user-attachments/assets/57b320a5-21d4-42bb-9bdc-f15a159a38ca)
+
+## Github stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroRomero21&layout=compact&theme=dark) ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LautaroRomero21&theme=dark)\
+
+## 📚 My tech stack
+
