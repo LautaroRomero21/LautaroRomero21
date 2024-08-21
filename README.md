@@ -29,8 +29,12 @@ Data Analytics: Applying BI techniques for decision-making
 System Design: Creating and managing complex systems in real-world environments
 
 🔗 Connect with Me:
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/lautaro-romero-7a31612b8/)
-[![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram-new.png)](https://www.linkedin.com/in/your-profile)
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" alt="LinkedIn" style="vertical-align:middle; width:24px; height:24px;" />
+</a>
+<a href="https://www.instagram.com/your-profile" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/24/ffffff/instagram-new.png" alt="Instagram" style="vertical-align:middle; width:24px; height:24px;" />
+</a>
 
 
 ## 🎓 My career
