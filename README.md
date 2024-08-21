@@ -51,9 +51,7 @@ Implementation of notification and distribution systems using Java and Spring Bo
 | Python3       | ⭐⭐⭐⭐⭐    |
 | Java          | ⭐⭐⭐⭐⭐    |
 | C             | ⭐⭐⭐⭐⭐    |
-| C++           | ⭐⭐⭐⭐       |
-
-### 🖥️ Front-End Languages
+| C++           | ⭐⭐⭐⭐       | 🖥️ Front-End Languages
 
 | Language/Library/Framework | Knowledge Level |
 |----------------------------|------------------|
