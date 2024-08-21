@@ -1,8 +1,6 @@
 ## Hi, I'm Lautaro 👋
 
-I’m a Systems Engineering student at UTN Argentina, currently with 50% of the coursework completed and a GPA of 8.06. My academic background includes a strong foundation in key areas such as Data Management, Probability and Statistics, Algorithms and Data Structures, and Computer Architecture, among others
-
-🛠️ Proyectos y Experiencia:
+I’m a Systems Engineering student at UTN Argentina, currently with 50% of the coursework completed and a GPA of 8.06. My academic background includes a strong foundation in key areas such as Data Management, Probability and Statistics, Algorithms and Data Structures, Systems Design, Computer Architecture, among others
 
 📖 Current Courses:
 - Systems Design
