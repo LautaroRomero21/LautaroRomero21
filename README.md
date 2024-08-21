@@ -48,10 +48,8 @@ Implementation of notification and distribution systems using Java and Spring Bo
 
 | Language      | Knowledge Level |
 |---------------|------------------|
-| Python        | ⭐⭐⭐⭐⭐           |
-| JavaScript    | ⭐⭐⭐⭐            |
-| Java          | ⭐⭐⭐             |
-| C++           | ⭐⭐⭐             |
-| HTML & CSS    | ⭐⭐⭐⭐            |
-| SQL           | ⭐⭐⭐             |
+| Python3       | ⭐⭐⭐⭐⭐    |
+| Java          | ⭐⭐⭐⭐       |
+| C             | ⭐⭐⭐⭐       |
+| C++           | ⭐⭐⭐⭐       |
 
