@@ -28,9 +28,9 @@ Software Development: Building robust and efficient systems
 Data Analytics: Applying BI techniques for decision-making
 System Design: Creating and managing complex systems in real-world environments
 
-🔗 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/lautaro-romero-7a31612b8/)
-[Instagram](https://www.linkedin.com/in/your-profile)
+🔗 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/lautaro-romero-7a31612b8/)
+- [Instagram](https://www.linkedin.com/in/your-profile)
 
 
 
