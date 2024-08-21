@@ -47,9 +47,54 @@ Implementation of notification and distribution systems using Java and Spring Bo
 ### 🖥️ Programming Languages
 
 | Language      | Knowledge Level |
-|---------------|------------------|
+|---------------|-----------------|
 | Python3       | ⭐⭐⭐⭐⭐    |
-| Java          | ⭐⭐⭐⭐       |
-| C             | ⭐⭐⭐⭐       |
+| Java          | ⭐⭐⭐⭐⭐    |
+| C             | ⭐⭐⭐⭐⭐    |
 | C++           | ⭐⭐⭐⭐       |
+
+### 🖥️ Front-End Languages
+
+| Language/Library/Framework | Knowledge Level |
+|----------------------------|------------------|
+| HTML                       | ⭐⭐⭐⭐       |
+| CSS                        | ⭐⭐⭐⭐       |
+| React                      | ⭐⭐⭐⭐       |
+
+### 🖥️ Back-End Frameworks
+
+| Language | Framework/Router	| Knowledge Level |
+|----------|------------------|------------------|
+| Java     | Spring Boot      | ⭐⭐⭐⭐       |
+| Node.js  |                  | ⭐⭐⭐         |
+
+### 🖥️ Back-End Frameworks
+
+| Language | Framework/Router	| Knowledge Level |
+|----------|------------------|------------------|
+| Java     | Spring Boot      | ⭐⭐⭐⭐       |
+| Node.js  |                  | ⭐⭐⭐         |
+
+### 🖥️ Build Tools
+
+|   Tool   | Knowledge Level |
+|----------|-----------------|
+| Mave     | ⭐⭐⭐⭐⭐   |
+| Makefile | ⭐⭐⭐⭐⭐   |
+
+### 🖥️ Testing Libraries
+
+| Language | Framework	| Knowledge Level |
+|----------|------------|-----------------|
+| Java     | JUnit      | ⭐⭐⭐⭐     |
+| Java     | Mockito    | ⭐⭐⭐⭐     |
+| Java     | AssertJ    | ⭐⭐⭐⭐     |
+
+
+### 🖥️ Database Management
+
+| Type    | System	   | Knowledge Level |
+|---------|------------|-----------------|
+| SQL     | MySQL      | ⭐⭐⭐⭐⭐   |
+| SQL     | SQL Server | ⭐⭐⭐⭐⭐   |
 
