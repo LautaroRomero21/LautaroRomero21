@@ -3,9 +3,7 @@
 I’m a Systems Engineering student at UTN Argentina, currently with 50% of the coursework completed and a GPA of 8.06. My academic background includes a strong foundation in key areas such as Data Management, Probability and Statistics, Algorithms and Data Structures, Systems Design, Computer Architecture, among others
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroRomero21&layout=compact&theme=dark)
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LautaroRomero21&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroRomero21&layout=compact&theme=dark) ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LautaroRomero21&theme=dark)
 
 
 
