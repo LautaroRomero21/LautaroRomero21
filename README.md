@@ -44,3 +44,14 @@ Implementation of notification and distribution systems using Java and Spring Bo
 
 ## 📚 My tech stack
 
+### 🖥️ Programming Languages
+
+| Language      | Knowledge Level |
+|---------------|------------------|
+| Python        | ⭐⭐⭐⭐⭐           |
+| JavaScript    | ⭐⭐⭐⭐            |
+| Java          | ⭐⭐⭐             |
+| C++           | ⭐⭐⭐             |
+| HTML & CSS    | ⭐⭐⭐⭐            |
+| SQL           | ⭐⭐⭐             |
+
