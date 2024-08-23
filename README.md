@@ -36,7 +36,7 @@ Implementation of notification and distribution systems using Java and Spring Bo
 
 ## 🎓 My career
 
-![CARRERA](https://github.com/user-attachments/assets/d33df953-4263-455d-af6a-283c001164cc)
+![CARRERA (1)](https://github.com/user-attachments/assets/4b39ffd5-5573-41c3-954d-ab7cf00469ac)
 
 ## Github stats:
 
