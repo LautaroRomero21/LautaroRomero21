@@ -3,8 +3,8 @@
 I’m a Systems Engineering student at UTN Argentina, currently with 50% of the coursework completed and a GPA of 8.06. My academic background includes a strong foundation in key areas such as Data Management, Probability and Statistics, Algorithms and Data Structures, Systems Design, Computer Architecture, among others
 
 📖 Current Courses:
-- Systems Design
-- Physics I
+- Network Communication
+- Software Development
 - Mathematical Analysis II
 - Operating Systems
 
@@ -36,7 +36,7 @@ Implementation of notification and distribution systems using Java and Spring Bo
 
 ## 🎓 My career
 
-![CARRERA (1)](https://github.com/user-attachments/assets/4b39ffd5-5573-41c3-954d-ab7cf00469ac)
+![CARRERA](https://github.com/user-attachments/assets/ae393807-a4ee-4d03-87fd-71669b2818fc)
 
 ## Github stats:
 
