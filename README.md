@@ -1,32 +1,54 @@
 ## Hi, I'm Lautaro 👋
 
-I’m a Systems Engineering student at UTN Argentina, currently with 50% of the coursework completed and a GPA of 8.06. My academic background includes a strong foundation in key areas such as Data Management, Probability and Statistics, Algorithms and Data Structures, Systems Design, Computer Architecture, among others
+I’m a Systems Engineering student at UTN Argentina, currently with 50% of the coursework completed and a GPA of 8.06. I have a solid foundation in areas such as Data Management, Probability and Statistics, Algorithms and Data Structures, Systems Design, and Computer Architecture. I also hold a **Diploma in Python3 Programming**, which reinforced my foundations in software development and scripting.
 
-📖 Current Courses:
-- Network Communication
+📖 **Current Courses:**
 - Software Development
 - Mathematical Analysis II
 - Operating Systems
 
-🛠️ Projects and Experience:
+🛠️ **Projects and Experience:**
 
-Currently, I'm working on several projects, including:
-Development of a management system for an NGO for the distribution of community refrigerators.
-Implementation of notification and distribution systems using Java and Spring Boot.
+I'm passionate about building real-world solutions. Some of my most significant projects include:
 
-🧩 Skills and Tools:
-- Programming Languages: Java, SQL, Python3 (Diploma)
-- Web Technologies: HTML, CSS, JavaScript
-- Tools and Technologies: Spring Boot, Maven, JSON, API, ORM (Hibernate)
-- Design Diagrams: Use Case Diagram, Class Diagram, Entity-relationship diagram, Data Flow Diagrams, Components Diagram, Sequence diagram, State diagram
-- Data Analytics: Business Intelligence, Data Warehouse Design.
+- 🔗 [**Booking Accommodation System**](https://github.com/LautaroRomero21/2025-1c-lu-sa-grupo-03)  
+  Full-stack application for booking and managing reservations between hosts and guests.
 
-📈 Interests:
-- Software Development: Building robust and efficient systems
-- Data Analytics: Applying BI techniques for decision-making
-- System Design: Creating and managing complex systems in real-world environments
+- 🔗 [**NGO Refrigerator Management System**](https://github.com/LautaroRomero21/dise-o-sistema-heladeras-comunitarias)  
+  Management system for community refrigerator distribution in NGOs.
 
-🔗 Connect with Me:
+🧩 **Skills and Tools:**
+
+**Programming Languages:**  
+- Java, JavaScript, Python3, C, C++, SQL
+
+**Web & App Development:**  
+- **Frontend:** HTML, CSS, React, Next.js  
+- **Backend:** Node.js, Express, Java (Spring Boot)  
+- **APIs & Integration:** Axios, REST, Swagger
+
+**Databases:**  
+- SQL Server, MySQL, MongoDB
+
+**Testing:**  
+- Jest (Unit & Integration Testing), Cypress (E2E), JUnit, Mockito, AssertJ
+
+**Build Tools:**  
+- Maven, Makefile
+
+**Other Tools:**  
+- Swagger, JSON, ORM (Hibernate), Git, GitHub
+
+**Design & Modeling:**  
+- Use Case, Class, ER, Component, Sequence, State, and Data Flow Diagrams
+
+📈 **Interests:**
+- **Software Development:** Building scalable and efficient systems  
+- **Data Analytics:** Applying BI techniques to support decision-making  
+- **System Design:** Designing and managing complex architectures
+
+🔗 **Connect with Me:**
+
 <a href="https://www.linkedin.com/in/lautaro-romero-7a31612b8/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" alt="LinkedIn" style="vertical-align:middle; width:24px; height:24px;" />
 </a>
@@ -34,59 +56,70 @@ Implementation of notification and distribution systems using Java and Spring Bo
   <img src="https://img.icons8.com/ios-filled/24/ffffff/instagram-new.png" alt="Instagram" style="vertical-align:middle; width:24px; height:24px;" />
 </a>
 
-## 🎓 My career
+---
+
+## 🎓 My Career
 
 ![CARRERA](https://github.com/user-attachments/assets/d2e62857-cb3d-4f35-a639-58367709c9b7)
 
-## Github stats:
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroRomero21&layout=compact&theme=dark) ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LautaroRomero21&theme=dark)\
+## 📈 GitHub Stats
 
-## 📚 My tech stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroRomero21&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LautaroRomero21&theme=dark)
+
+---
+
+## 📚 My Tech Stack
 
 ### 🖥️ Programming Languages
 
 | Language      | Knowledge Level |
 |---------------|-----------------|
-| Python3       | ⭐⭐⭐⭐⭐    |
-| Java          | ⭐⭐⭐⭐⭐    |
-| C             | ⭐⭐⭐⭐⭐    |
-| C++           | ⭐⭐⭐⭐       | 
+| Python3       | ⭐⭐⭐⭐⭐           |
+| Java          | ⭐⭐⭐⭐⭐           |
+| C             | ⭐⭐⭐⭐⭐           |
+| C++           | ⭐⭐⭐⭐            |
+| JavaScript    | ⭐⭐⭐⭐            |
 
-🖥️ Front-End Languages
+### 🎨 Front-End
 
-| Language/Library/Framework | Knowledge Level |
-|----------------------------|------------------|
-| HTML                       | ⭐⭐⭐⭐       |
-| CSS                        | ⭐⭐⭐⭐       |
-| React                      | ⭐⭐⭐⭐       |
+| Technology | Knowledge Level |
+|------------|-----------------|
+| HTML       | ⭐⭐⭐⭐            |
+| CSS        | ⭐⭐⭐⭐            |
+| React      | ⭐⭐⭐⭐            |
+| Next.js    | ⭐⭐⭐⭐            |
 
-### 🖥️ Back-End Frameworks
+### 🔧 Back-End
 
-| Language | Framework/Router	| Knowledge Level |
-|----------|------------------|------------------|
-| Java     | Spring Boot      | ⭐⭐⭐⭐       |
-| Node.js  |                  | ⭐⭐⭐         |
+| Stack       | Knowledge Level |
+|-------------|-----------------|
+| Node.js + Express | ⭐⭐⭐⭐     |
+| Java + Spring Boot | ⭐⭐⭐⭐    |
 
-### 🖥️ Build Tools
+### 🧪 Testing
 
-|   Tool   | Knowledge Level |
+| Tool     | Knowledge Level |
 |----------|-----------------|
-| Maven    | ⭐⭐⭐⭐⭐   |
-| Makefile | ⭐⭐⭐⭐⭐   |
+| Jest     | ⭐⭐⭐⭐            |
+| Cypress  | ⭐⭐⭐⭐            |
+| JUnit    | ⭐⭐⭐⭐            |
+| Mockito  | ⭐⭐⭐⭐            |
+| AssertJ  | ⭐⭐⭐⭐            |
 
-### 🖥️ Testing Libraries
+### 🗄️ Databases
 
-| Language | Framework	| Knowledge Level |
-|----------|------------|-----------------|
-| Java     | JUnit      | ⭐⭐⭐⭐     |
-| Java     | Mockito    | ⭐⭐⭐⭐     |
-| Java     | AssertJ    | ⭐⭐⭐⭐     |
-
-
-### 🖥️ Database Management
-
-| Type    | System	   | Knowledge Level |
+| DB Type | System     | Knowledge Level |
 |---------|------------|-----------------|
-| SQL     | MySQL      | ⭐⭐⭐⭐⭐   |
-| SQL     | SQL Server | ⭐⭐⭐⭐⭐   |
+| SQL     | MySQL      | ⭐⭐⭐⭐⭐           |
+| SQL     | SQL Server | ⭐⭐⭐⭐⭐           |
+| NoSQL   | MongoDB    | ⭐⭐⭐⭐            |
+
+### ⚙️ Build Tools
+
+| Tool     | Knowledge Level |
+|----------|-----------------|
+| Maven    | ⭐⭐⭐⭐⭐           |
+| Makefile | ⭐⭐⭐⭐⭐           |
