@@ -66,7 +66,7 @@ I'm passionate about building real-world solutions. Some of my most significant 
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroRomero21&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroRomero21&layout=compact&theme=dark&size_weight=0.3&count_weight=0.3)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LautaroRomero21&theme=dark)
 
 ---
