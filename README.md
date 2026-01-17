@@ -60,8 +60,7 @@ I'm passionate about building real-world solutions. Some of my most significant 
 
 ## 🎓 My Career
 
-![CARRERA](https://github.com/user-attachments/assets/b30b17a5-af51-4624-9dbe-3667685e0ed4)
-![CARRERA (1)](https://github.com/user-attachments/assets/7b5cf2b3-48a4-429a-ba6e-976f491de8ff)
+![CARRERA](https://github.com/user-attachments/assets/1d22a66e-8852-41ba-bad5-a1db26611b7c)
 
 ---
 
