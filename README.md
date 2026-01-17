@@ -123,3 +123,10 @@ I'm passionate about building real-world solutions. Some of my most significant 
 |----------|-----------------|
 | Maven    | ⭐⭐⭐⭐⭐           |
 | Makefile | ⭐⭐⭐⭐⭐           |
+
+
+### ☁️ Cloud & Infrastructure (o Cloud Platforms)
+
+| Tool                                                          | Knowledge Level      |
+|---------------------------------------------------------------|----------------------|
+| AWS (IAM, S3, Lambda, Redshift, Glue, EC2/ECS, CloudWatch)    | ⭐⭐⭐⭐           |
