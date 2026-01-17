@@ -60,7 +60,7 @@ I'm passionate about building real-world solutions. Some of my most significant 
 
 ## 🎓 My Career
 
-![CARRERA](https://github.com/user-attachments/assets/d2e62857-cb3d-4f35-a639-58367709c9b7)
+![CARRERA](https://github.com/user-attachments/assets/635a2e48-eefc-48fd-886d-747bd213cce0)
 
 ---
 
@@ -77,7 +77,7 @@ I'm passionate about building real-world solutions. Some of my most significant 
 
 | Language      | Knowledge Level |
 |---------------|-----------------|
-| Python3       | ⭐⭐⭐⭐⭐           |
+| Python        | ⭐⭐⭐⭐⭐           |
 | Java          | ⭐⭐⭐⭐⭐           |
 | C             | ⭐⭐⭐⭐⭐           |
 | C++           | ⭐⭐⭐⭐            |
