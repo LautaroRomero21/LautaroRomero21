@@ -174,3 +174,20 @@ I like building real-world solutions combining **backend development, data & ana
 |---------------------------------------------------------------|-----------------|
 | AWS (IAM, VPC, S3, Lambda, Redshift, Glue, EC2/ECS, CloudWatch) | ⭐⭐⭐⭐          |
 
+### 📱 Mobile Development
+
+| Technology              | Knowledge Level |
+|------------------------|-----------------|
+| React Native (Expo)    | ⭐⭐⭐⭐            |
+| Expo Router            | ⭐⭐⭐⭐            |
+| React Hooks / State     | ⭐⭐⭐⭐            |
+| Mobile UI (Flexbox)    | ⭐⭐⭐⭐            |
+
+### 🛠️ Mobile Tooling
+
+| Tool / Platform        | Knowledge Level |
+|------------------------|-----------------|
+| Expo CLI / Expo Go     | ⭐⭐⭐⭐            |
+| EAS Build (optional)   | ⭐⭐⭐             |
+
+
