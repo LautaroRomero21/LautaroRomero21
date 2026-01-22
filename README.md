@@ -1,53 +1,70 @@
 ## Hi, I'm Lautaro 👋
 
-I’m a Systems Engineering student at UTN Argentina, currently with 50% of the coursework completed and a GPA of 8.06. I have a solid foundation in areas such as Data Management, Probability and Statistics, Algorithms and Data Structures, Systems Design, and Computer Architecture. I also hold a **Diploma in Python3 Programming**, which reinforced my foundations in software development and scripting.
+**Data & Analytics @ Banco Ciudad (Argentina)** — *since Nov 2024*  
+**Systems Engineering student @ UTN Argentina** — **56%** completed · GPA **8.25**
 
-📖 **Current Courses:**
-- Software Development
-- Mathematical Analysis II
-- Operating Systems
+I like building real-world solutions combining **backend development, data & analytics, automation**, and lately **Generative AI** (LLM apps).
 
-🛠️ **Projects and Experience:**
+---
 
-I'm passionate about building real-world solutions. Some of my most significant projects include:
+## 🛠️ What I do
 
-- 🔗 [**Booking Accommodation System**](https://github.com/LautaroRomero21/2025-1c-lu-sa-grupo-03)  
-  Full-stack application for booking and managing reservations between hosts and guests.
+- **Data & Analytics:** dashboards, reporting, and data-driven solutions
+- **Microsoft Power Platform:** process automation and internal apps
+- **Conversational products:** development work on the bank’s **WhatsApp bot**
+- **Software Engineering:** full-stack apps, APIs, testing, and clean architecture
 
-- 🔗 [**NGO Refrigerator Management System**](https://github.com/LautaroRomero21/dise-o-sistema-heladeras-comunitarias)  
-  Management system for community refrigerator distribution in NGOs.
+---
 
-🧩 **Skills and Tools:**
+## 🚀 Some of my Featured Projects
 
-**Programming Languages:**  
-- Java, JavaScript, Python3, C, C++, SQL
+- 🔗 **Booking Accommodation System**  
+  Full-stack application for booking and managing reservations between hosts and guests.  
+  🔗 https://github.com/LautaroRomero21/2025-1c-lu-sa-grupo-03
 
-**Web & App Development:**  
-- **Frontend:** HTML, CSS, React, Next.js  
-- **Backend:** Node.js, Express, Java (Spring Boot)  
-- **APIs & Integration:** Axios, REST, Swagger
+- 🔗 **NGO Refrigerator Management System**  
+  Management system for community refrigerator distribution in NGOs.  
+  🔗 https://github.com/LautaroRomero21/dise-o-sistema-heladeras-comunitarias
 
-**Databases:**  
+- 🧊 **Heladeras Comunitarias Assistant (Spring AI)**  
+  ChatGPT-like assistant using **RAG + Tool Calling** (Spring AI) and **JSON persistence** (no DB).  
+  🔗 https://github.com/LautaroRomero21/Course-Spring-IA
+  
+---
+
+## 🧩 Skills & Tools
+
+### Data & Analytics
+- **Power BI** (DAX / Power Query), **SQL**, data modeling, reporting
+
+### Automation & Low-Code
+- **Power Automate**, **Power Apps** (Microsoft Power Platform)
+
+### Backend & Integration
+- **Java + Spring Boot**, **Node.js + Express**
+- REST APIs, Swagger/OpenAPI, JSON, ORM (Hibernate/JPA)
+
+### Chatbots
+- Development experience on a **WhatsApp bot** (integrations / automation / outbound flows)
+
+### Testing
+- JUnit, Mockito, AssertJ, Jest, Cypress
+
+### Databases
 - SQL Server, MySQL, MongoDB
 
-**Testing:**  
-- Jest (Unit & Integration Testing), Cypress (E2E), JUnit, Mockito, AssertJ
+### Cloud (Foundations)
+- AWS (IAM, VPC, S3, Lambda, EC2/ECS, CloudWatch, Glue, Redshift)
 
-**Build Tools:**  
-- Maven, Makefile
+---
 
-**Other Tools:**  
-- Swagger, JSON, ORM (Hibernate), Git, GitHub
+## 🤖 Now focusing on Generative AI
+- Building **LLM apps** (RAG, tool-calling, structured outputs)
+- Learning the ecosystem to go deeper (evaluation, orchestration, deployment)
 
-**Design & Modeling:**  
-- Use Case, Class, ER, Component, Sequence, State, and Data Flow Diagrams
+---
 
-📈 **Interests:**
-- **Software Development:** Building scalable and efficient systems  
-- **Data Analytics:** Applying BI techniques to support decision-making  
-- **System Design:** Designing and managing complex architectures
-
-🔗 **Connect with Me:**
+## 🔗 Connect with Me
 
 <a href="https://www.linkedin.com/in/lautaro-romero-7a31612b8/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" alt="LinkedIn" style="vertical-align:middle; width:24px; height:24px;" />
@@ -82,6 +99,7 @@ I'm passionate about building real-world solutions. Some of my most significant 
 | C             | ⭐⭐⭐⭐⭐           |
 | C++           | ⭐⭐⭐⭐            |
 | JavaScript    | ⭐⭐⭐⭐            |
+| SQL           | ⭐⭐⭐⭐⭐           |
 
 ### 🎨 Front-End
 
@@ -94,10 +112,36 @@ I'm passionate about building real-world solutions. Some of my most significant 
 
 ### 🔧 Back-End
 
-|             Stack              | Knowledge Level |
-|--------------------------------|-----------------|
-| Node.js + Express              | ⭐⭐⭐⭐      |
-| Java + Spring Boot + Spring AI | ⭐⭐⭐⭐      |
+| Stack                           | Knowledge Level |
+|---------------------------------|-----------------|
+| Node.js + Express               | ⭐⭐⭐⭐            |
+| Java + Spring Boot              | ⭐⭐⭐⭐            |
+| Spring AI (RAG + Tool Calling)  | ⭐⭐⭐⭐            |
+
+### 🤖 Generative AI & LLM Apps
+
+| Technology / Concepts                 | Knowledge Level |
+|--------------------------------------|-----------------|
+| RAG (Embeddings + Retrieval)         | ⭐⭐⭐⭐            |
+| Tool Calling / Function Calling      | ⭐⭐⭐⭐            |
+| Ollama (Local LLMs)                  | ⭐⭐⭐⭐            |
+| Prompting / Structured Outputs       | ⭐⭐⭐⭐            |
+
+### 🤝 Chatbots & Integrations
+
+| Tool / Area                          | Knowledge Level |
+|--------------------------------------|-----------------|
+| WhatsApp Bot Development             | ⭐⭐⭐⭐            |
+| API Integrations (REST / JSON)       | ⭐⭐⭐⭐            |
+| Webhooks / Outbound HTTP Workflows   | ⭐⭐⭐⭐            |
+
+### 🧩 Microsoft Power Platform
+
+| Tool              | Knowledge Level |
+|------------------|-----------------|
+| Power BI          | ⭐⭐⭐⭐            |
+| Power Automate    | ⭐⭐⭐⭐            |
+| Power Apps        | ⭐⭐⭐⭐            |
 
 ### 🧪 Testing
 
@@ -124,9 +168,9 @@ I'm passionate about building real-world solutions. Some of my most significant 
 | Maven    | ⭐⭐⭐⭐⭐           |
 | Makefile | ⭐⭐⭐⭐⭐           |
 
+### ☁️ Cloud & Infrastructure (Cloud Platforms)
 
-### ☁️ Cloud & Infrastructure (o Cloud Platforms)
+| Tool                                                          | Knowledge Level |
+|---------------------------------------------------------------|-----------------|
+| AWS (IAM, VPC, S3, Lambda, Redshift, Glue, EC2/ECS, CloudWatch) | ⭐⭐⭐⭐          |
 
-| Tool                                                          | Knowledge Level      |
-|---------------------------------------------------------------|----------------------|
-| AWS (IAM, S3, Lambda, Redshift, Glue, EC2/ECS, CloudWatch)    | ⭐⭐⭐⭐           |
