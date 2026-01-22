@@ -190,4 +190,36 @@ I like building real-world solutions combining **backend development, data & ana
 | Expo CLI / Expo Go     | ⭐⭐⭐⭐            |
 | EAS Build (optional)   | ⭐⭐⭐             |
 
+---
+
+## 🎓 Certifications & Courses
+
+### 🏦 Banco Ciudad (Internal Training)
+
+#### Agile & Product Delivery
+- Introducción a Agilidad  
+- Scrum y Kanban  
+- Proyectos Ágiles con Scrum  
+- Células Ágiles  
+- Estimaciones Ágiles  
+- Planificación de Proyectos  
+- Design Thinking (metodología para soluciones creativas en contextos de innovación)  
+- Learning Agility  
+- Learning Agility — 5 Dimensiones  
+
+#### Data & Analytics
+- Data Mindset  
+- Pensar en Datos: Mindset Data-Driven  
+- Base de Datos y SQL  
+- Business Analytics  
+- Power BI  
+- Excel Avanzado  
+- Excel Experto  
+
+#### Security / DevSecOps
+- Ciberseguridad 2024 — Desarrollo Seguro — DevSecOps  
+
+### 🎓 UTN (Argentina)
+- **Diplomatura en Programación Python** (UTN)  
+- **Curso de Spring AI** (UTN)  
 
