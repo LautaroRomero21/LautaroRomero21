@@ -94,10 +94,10 @@ I'm passionate about building real-world solutions. Some of my most significant 
 
 ### 🔧 Back-End
 
-| Stack       | Knowledge Level |
-|-------------|-----------------|
-| Node.js + Express | ⭐⭐⭐⭐     |
-| Java + Spring Boot | ⭐⭐⭐⭐    |
+|             Stack              | Knowledge Level |
+|--------------------------------|-----------------|
+| Node.js + Express              | ⭐⭐⭐⭐      |
+| Java + Spring Boot + Spring AI | ⭐⭐⭐⭐      |
 
 ### 🧪 Testing
 
