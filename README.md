@@ -77,7 +77,7 @@ I like building real-world solutions combining **backend development, data & ana
 
 ## 🎓 My Career
 
-![CARRERA](https://github.com/user-attachments/assets/1d22a66e-8852-41ba-bad5-a1db26611b7c)
+![CARRERA](https://github.com/user-attachments/assets/f068b08a-4809-4f9c-be3f-a1de977e5ed9)
 
 ---
 
